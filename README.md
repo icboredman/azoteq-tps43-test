@@ -3,4 +3,6 @@ Test application to demonstrate interfacing with Azoteq TPS43 touch pad I2C sens
 Polling of touch pad sensor is offloaded to a helper thread.
 Main application receives events and dumps info to console.
 ### Compiling
-* `cd build` * `cmake ..` * `make`
+* `cd build`
+* `cmake ..`
+* `make`
